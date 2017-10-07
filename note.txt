@@ -1,0 +1,9 @@
+This is a "great" challenge for me because I can't understand the contents. Yes, I can't understand French so I have to find a way out.
+
+So, I decompiled the swf file and look into the AS. Fortunately, it is not obfuscated and I can clearly understand the logic.
+
+The key code is in "q_3.as". And I find all the answers to the questions. Let me list them below:
+cbacd dbdbd 364521 aacb badc Scootaloo
+
+And then, I can get the flag. Actually, the flag is simply the combination of all the answers. So, I even don't have to commit all the answers.
+Flag:cbacddbdbd364521aacbbadcScootaloo
